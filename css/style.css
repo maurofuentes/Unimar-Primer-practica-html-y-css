@@ -1,0 +1,63 @@
+/**.header-image{
+	height: 30rem;
+}**/
+/**globals**/
+.textcenter {
+	text-align: center;
+}
+
+.text-white {
+	color: #f8f9fa;
+}
+
+.image-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.icon1 {
+	max-height: 4rem;
+	max-width: 4rem;
+	padding: 0.3rem;
+}
+
+.div-icons {
+	height: 60px;
+}
+
+.button1 {
+	display: inline-block;
+	align-items: center;
+	text-align: center;
+	font-weight: light;
+	padding: 0.25rem 2rem;
+	margin: 1rem 5rem; 
+
+}
+
+
+
+footer {
+	display: inline-flex;
+	height: 6rem;
+	align-items: center;
+	justify-content: center;
+	font-weight: bold;
+	width: 100%;
+}
+
+.max-height {
+	max-height: 20rem;
+}
+
+.border-img img {
+	border: 3px solid blue;
+	border-top-left-radius: 2rem;
+	border-bottom-right-radius: 2rem;
+}
+
+.margin-top {
+	margin-top: 5rem;
+}
+
